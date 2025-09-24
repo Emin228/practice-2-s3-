@@ -5,8 +5,7 @@ chcp 65001
 "C:\silentInstaller\maxima-5.48.1-win64.exe" /S
 "C:\silentInstaller\7z2501-x64.exe" /S
 "C:\silentInstaller\DockerDesktopInstaller.exe" install --quiet --accept-license
-"C:\silentInstall
-er\GitHubDesktopSetup-x64.exe" install --silent
+"C:\silentInstaller\GitHubDesktopSetup-x64.exe" install --silent
 "C:\silentInstaller\KNIME5.5.1Installer(64bit).exe" /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-
 ::Pycharm запускался, только если чётко прописывать cmd, что код запускается в терминале
 cmd /c "C:\silentInstaller\pycharm-2025.2.1.1.exe" /S
